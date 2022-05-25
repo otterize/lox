@@ -1,7 +1,7 @@
 # lox 🥯
 Extends [samber/lo](https://github.com/samber/lo) with error handling and other useful utilities. 
 
-## Install
+## 🚀 Install
 ```sh
 go get github.com/otterize/lox
 ```
