@@ -1,5 +1,5 @@
 # lox 🥯
-Extends samber/lo with error handling and other useful utilities. 
+Extends [samber/lo](https://github.com/samber/lo) with error handling and other useful utilities. 
 
 ## Install
 ```sh
